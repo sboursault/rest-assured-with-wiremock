@@ -1,0 +1,6 @@
+
+remote:
+  ribbon:
+    eureka:
+      enabled: false
+    listOfServers: localhost:8081
